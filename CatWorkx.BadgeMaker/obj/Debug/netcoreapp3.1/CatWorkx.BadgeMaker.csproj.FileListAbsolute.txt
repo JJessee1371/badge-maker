@@ -1,0 +1,13 @@
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.exe
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.deps.json
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.runtimeconfig.json
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.runtimeconfig.dev.json
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.pdb
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.csprojAssemblyReference.cache
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.AssemblyInfo.cs
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.pdb
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.genruntimeconfig.cache
