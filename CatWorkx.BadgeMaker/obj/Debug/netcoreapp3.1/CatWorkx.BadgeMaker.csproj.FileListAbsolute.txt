@@ -11,3 +11,9 @@ C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\C
 C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.dll
 C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.pdb
 C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.genruntimeconfig.cache
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\owner\code\C#\badge-maker\CatWorkx.BadgeMaker\obj\Debug\netcoreapp3.1\CatWorkx.BadgeMaker.csproj.CopyComplete
